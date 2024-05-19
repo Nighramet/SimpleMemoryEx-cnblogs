@@ -433,6 +433,7 @@ code-box {
 .node ellipse,
 .node polygon,
 .node path {
+	color: #ffffff !important;
 	fill: #2a2a2a !important;
 	stroke: #222222 !important;
 }
