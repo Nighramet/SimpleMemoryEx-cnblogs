@@ -262,7 +262,7 @@ div#rightMenu .rightMenuItem {
 #home code:not([class]),
 span.cnblogs_code {
 	background-color: #282c34;
-	color: #f92672;
+	color: #ffffff;
 }
 
 .list .inc .bottom,
@@ -419,4 +419,26 @@ code-box {
 	.menu-button-scroll {
 		background: #444 !important;
 	}
+}
+
+/* Mermaid: To be continued. */
+
+.edgeLabel {
+	color: #ffffff !important;
+	background-color: #333333 !important;
+}
+
+.node rect,
+.node circle,
+.node ellipse,
+.node polygon,
+.node path {
+	fill: #2a2a2a !important;
+	stroke: #222222 !important;
+}
+
+.flowchart-link,
+.marker {
+	fill: #808080 !important;
+	stroke: #808080 !important;
 }
