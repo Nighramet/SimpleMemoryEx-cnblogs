@@ -8,12 +8,6 @@ This project is base on [SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-S
 
 Just a little change, and it is just my own taste.
 
-## Changed Files
-
-1. /dist/simpleMemory.js
-2. /dist/simpleMemory.css
-3. /dist/style/dayNight.360a9aee.css
-
 ## Update Logs
 
-- [$20240519$] Created Project.
+- [2024-05-19] Created Project.
