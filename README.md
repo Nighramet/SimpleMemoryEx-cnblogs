@@ -7,7 +7,3 @@ For example, this is my cn-blogs: [Nighramet's blogs](https://www.cnblogs.com/ni
 This project is base on [SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory).
 
 Just a little change, and it is just my own taste.
-
-## Update Logs
-
-- [2024-05-19] Created Project.
