@@ -3245,7 +3245,7 @@ code-box .code-tools {
 	align-items: center;
 	border-radius: 4px 4px 0 0;
 	color: #effc;
-	display: none; /* TODO: MacStyle: flex */
+	display: flex;
 	font-size: 14px;
 	height: 16px;
 	min-height: 1.2rem;
